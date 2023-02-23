@@ -38,15 +38,29 @@ Here are some ideas to get you started:
       methodologies <br/> 
       
 - [Front-End Developer | JavaScript Developer | UI Developer (Saghe Group)](https://saghehgroup.com/) - (April 2021-Jan 2023 ) <br/>
-    - Worked with teams to solve issues and find and implement efficiencies <br/>
-    - Reviewed and tested customer-facing prototypes before deployment and applied <br/>
-    - Reviewed code to validate structures and refactored the old-technology designs using modern tools for maintainability <br/>
-    
+    - Managed full-cycle design tasks, handling all phases from developing to deploying while maintaining guidelines. <br/>
+    - Designed and prepared end-to-end product features in collaboration with UI/UX designers and stakeholders.<br/>
+    - Reviewed code to validate data and refactored the old-technology designs using modern tools for functionality and optimization.<br/>
+
+
+
+- [Front-End Developer | JavaScript Developer | UI Developer (ZarinPal)](https://www.zarinpal.com/) - (Jan 2020-March 2021 ) <br/>
+    - Emprove the code quality of given projects and fixed significant issues based on customer needs. <br/>
+    - Collaborated with teammates and researched customer needs for choosing the best technologies. <br/>
+    - Increased website performance, updated and implemented optimized layouts that met usability and performance requirements. <br/>
+
+
+- [Front-End Developer | JavaScript Developer | UI Developer (Simorgh)](https://simorgh34000.com/) - (Jan 2018-Jan 2020 ) <br/>
+    - Took charge of developing MVP and working overtime to ensure that it got completed by the deadline and completed 100% of deadlines
+      ahead of schedule. <br/>
+    - Completed full redesign of existing website to improve navigation, enhance visuals and strengthen search engine rankings. <br/>
+
+   
 ### Tech Skills ⚡
-``` ReactJS / React hooks``` ```Redux & Context API``` ``` NextJs```  ```Git /GitHub/ CICD / DevOps```  ``` Scrum``` 
- ```Html``` ``` Css/ Tailwind Css / BootStrap / Sass & Less```  ```  Material UI / Ant Design ``` ```Webpack & Babel``` ``` Rest Api /Axios/ SWR ```
+``` ReactJS / React hooks``` ```Redux & Context API``` ``` NextJs```  ```Git /GitHub/ CICD``` ```Atomic Design``` ```Story Book``` 
+ ```Html``` ```Css/ Tailwind Css / BootStrap / Sass & Less```  ```Material UI / Ant Design``` ```Webpack & Babel``` ``` Rest Api /Axios/ SWR ```
 
 <br />
 
-![Famini-ProDev Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Famini-ProDev&layout=compact&langs_count=8&hide_border=true)
+![MokaDevLight Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MokaDevLight&layout=compact&langs_count=8&hide_border=true)
 
