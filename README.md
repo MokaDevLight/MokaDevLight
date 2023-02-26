@@ -30,32 +30,13 @@ Here are some ideas to get you started:
 
 ### My Experiences 🙌
 - [Front-End Developer | Software Engineer | UI Developer (Webjar)](https://webjar.ir/) - (Feb 2023-Present) <br/>
-    - mprove the code quality of some projects and solve important problems according to customer needs <br/>
-    - Ensured the technology implemented promoted efficiency, speed, and smooth functionality <br/>
-    - Increased website performance, updated and implemented optimized layouts that met usability and performance requirements <br/>
-    - Trained new team developers to develop current projects and sustain developed projects <br/>
-    - Work towards resolving the complex challenges of using modern web application development processes and standardized
-      methodologies <br/> 
-      
+   <br/> 
 - [Front-End Developer | JavaScript Developer | UI Developer (Saghe Group)](https://saghehgroup.com/) - (April 2021-Jan 2023 ) <br/>
-    - Managed full-cycle design tasks, handling all phases from developing to deploying while maintaining guidelines. <br/>
-    - Designed and prepared end-to-end product features in collaboration with UI/UX designers and stakeholders.<br/>
-    - Reviewed code to validate data and refactored the old-technology designs using modern tools for functionality and optimization.<br/>
-
-
-
+   <br/>
 - [Front-End Developer | JavaScript Developer | UI Developer (ZarinPal)](https://www.zarinpal.com/) - (Jan 2020-March 2021 ) <br/>
-    - Emprove the code quality of given projects and fixed significant issues based on customer needs. <br/>
-    - Collaborated with teammates and researched customer needs for choosing the best technologies. <br/>
-    - Increased website performance, updated and implemented optimized layouts that met usability and performance requirements. <br/>
-
-
+   <br/>
 - [Front-End Developer | JavaScript Developer | UI Developer (Simorgh)](https://simorgh34000.com/) - (Jan 2018-Jan 2020 ) <br/>
-    - Took charge of developing MVP and working overtime to ensure that it got completed by the deadline and completed 100% of deadlines
-      ahead of schedule. <br/>
-    - Completed full redesign of existing website to improve navigation, enhance visuals and strengthen search engine rankings. <br/>
-
-   
+  <br/> 
 ### Tech Skills ⚡
 ``` ReactJS / React hooks``` ```Redux & Context API``` ``` NextJs```  ```Git /GitHub/ CICD``` ```Atomic Design``` ```Story Book``` 
  ```Html``` ```Css/ Tailwind Css / BootStrap / Sass & Less```  ```Material UI / Ant Design``` ```Webpack & Babel``` ``` Rest Api /Axios/ SWR ```
